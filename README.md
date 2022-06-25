@@ -12,3 +12,4 @@
 
 
 - Un bonito diseño para los diagnosticos [Trouble](https://github.com/folke/trouble.nvim)
+![Trouble](screenshot/trouble.png)
